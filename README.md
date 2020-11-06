@@ -1,8 +1,5 @@
 ### Hi there, welcome to my profile 👋
 
-<!--
-**KevinRaleie-dev/KevinRaleie-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Here are a few details to help you get to know me a little bit 😇
 
 - 🔭 I’m currently working on ... GraphQL and Typescript.
@@ -13,4 +10,4 @@
 - 📫 How to reach me: ... I'm also on [Instagram](https://www.instagram.com/kevinraleie/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm a great cook 🥗
--->
+

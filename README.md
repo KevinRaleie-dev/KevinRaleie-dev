@@ -11,3 +11,18 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm a great cook 🥗
 
+## Technologies I enjoy working with:
+
+- React/NextJS
+- Apollo
+- GraphQL
+- NodeJS
+- Typescript/Javascript
+- PostgreSQL
+
+## Technologies I would love to know:
+
+- AWS
+- K8s
+- UX/UI design
+- ML (one of these days...)

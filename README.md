@@ -13,7 +13,7 @@
 
 ## Technologies I enjoy working with:
 
-- React/NextJS
+- React/NextJS/React Native
 - Apollo
 - GraphQL
 - NodeJS

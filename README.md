@@ -1,29 +1,22 @@
-### Hi there, welcome to my profile 👋
+# Hi, my name is Kevin 👋🏼
 
-## Here are a few details to help you get to know me a little bit 😇
+### Looking for fullstack or junior dev positions 🔍 ...  
 
-- 🔭 I’m currently working on ... [Building a social, fashion marketplace](https://github.com/KevinRaleie-dev/ecom-client-react)
-- 🌱 I’m currently learning ... GraphQL with TypeScript.
-- 👯 I’m looking to collaborate on ... anything that interests me.
-- 🤔 I’m looking for help with ... AWS but im learning.
-- 💬 Ask me about ... Why South Africa needs to focus on the start-up ecosystem
-- 📫 How to reach me: ... I'm also on [Instagram](https://www.instagram.com/kevinraleie/)
+- 🔭 I’m currently working on ... [Building a social, fashion marketplace](https://github.com/KevinRaleie-dev/ecom-client-react) and few other projects...
+- 🌱 I’m currently learning ... GraphQL.
+- 👯 I’m looking to collaborate on ... awesome projects that will bring change.
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm a great cook 🥗
 
-## Technologies I enjoy working with:
+### Technologies I enjoy working with:
 
-- React/NextJS/React Native
-- Apollo
+- React / Next.js / React native
 - GraphQL
 - Node.js
-- Typescript/Javascript
-- PostgreSQL
+- Typescript / Javascript / C#
+- SQL / NoSQL
 
-## Technologies I would love to know:
+### Technologies I would love to know:
 
-- The cloud ☁️
-- K8s
-- UX/UI design
-- Machine Learning
-- GoLang
+- Vim
+- Any systems language (looking at you [Rust](https://www.rust-lang.org/)) 👀
+- Learning the cloud and devops, particularly AWS 💭

@@ -25,4 +25,4 @@ I am a software developer, self taught web developer with at least 2 years of ex
 - A functional language (Scala wouldn't be so bad) 🤔
 - Learning the cloud and devops, particularly AWS 💭
 
-* If you are looking to collaborate 🤝 on a project or looking for a developer, you're more than welcome to reach out to me on twitter, send me a DM and lets have a chat!😊
+If you are looking to collaborate 🤝 on a project or looking for a developer, you're more than welcome to reach out to me on twitter, send me a DM and lets have a chat!😊

@@ -2,7 +2,7 @@
 
 ### A bit about me
 
-I am a software developer, self taught web developer with at least 2 years of experience and a good eye for design. Being self taught in most things and not following a traditional route in tech has given me great empathy for people of all ability level and backgrounds. Outside of work, I build open source projects, contribute to open source and I enjoy helping others get started in the world of engineering and building products for themselves and others, a cause I feel extremely passionate about.
+I am a software developer, self taught web developer with +2 years of experience and a good eye for design. Being self taught in most things and not following a traditional route in tech has given me great empathy for people of all ability level and backgrounds. Outside of work, I build open source projects, contribute to open source and I enjoy helping others get started in the world of engineering and building products for themselves and others, a cause I feel extremely passionate about.
   
 - 🔭 I’m currently working on ... [Building a peer-to-peer, fashion marketplace](https://github.com/KevinRaleie-dev/threads-ui) and a few other projects.
 - 🌱 I’m currently learning ... GraphQL.

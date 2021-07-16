@@ -23,7 +23,8 @@ I am a software developer, self taught web developer with +2 years of experience
 ### My skills ☄️
 ...well some of them
 
-<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+<div style="display: flex; flex-direction: column; justify-content: space-between;">
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
 <img src="https://img.icons8.com/office/48/000000/react.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/windows/48/000000/node-js.png"/>
@@ -33,3 +34,5 @@ I am a software developer, self taught web developer with +2 years of experience
 <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
 <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+
+</div>

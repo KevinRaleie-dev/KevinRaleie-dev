@@ -20,8 +20,7 @@ I am a software developer, self taught web developer with +2 years of experience
 - PostgreSQL (you can never go wrong with a SQL database)
 - AWS / Serverless
 
-### My skills ☄️
-...well some of them
+### My stack ☄️
 
 <div style="display: flex; flex-direction: column; justify-content: space-between;">
   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>

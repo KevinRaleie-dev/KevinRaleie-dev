@@ -13,7 +13,7 @@ Other things that also interest me are K-drama series, currently watching Strong
 ### Working on, Learning and Collab 👇🏼  
 - 🔭 I’m currently working on ... [Building a peer-to-peer, fashion marketplace](https://github.com/KevinRaleie-dev/threads-ui) and a few other projects.
 - 🌱 I’m currently learning ... Elixir. 
-- 👯 I’m looking to collaborate on ... Anything awesome!.
+- 👯 I’m looking to collaborate on ... All things Javascript.
 - 😄 Pronouns: ... He/Him
 
 ### My Tech Stack ⚡️

@@ -6,19 +6,13 @@
 
 ### A Bit About Me 😬
 
-I am a software developer, self taught web developer with +3 years of experience and a good eye for design. Being self taught in most things and not following a traditional route in tech has given me great empathy for people of all ability level and backgrounds. Outside of work, I build open source projects, contribute to open source, mentor junior devs and I enjoy helping others get started in the world of engineering and building products for themselves and others, a cause I feel extremely passionate about.
-
-### Working on, Learning and Collab 👇🏼  
-- 🔭 I’m currently working on ... [Building a peer-to-peer, fashion marketplace](https://github.com/KevinRaleie-dev/threads-ui) and a few other projects.
-- 🌱 I’m currently learning ... Elixir. 
-- 👯 I’m looking to collaborate on ... All things Javascript.
-- 😄 Pronouns: ... He/Him
+I am a software developer, self taught web developer with three years of experience and a good eye for design. Being self taught in most things and not following a traditional route in tech has given me great empathy for people of all ability level and backgrounds. Outside of work, I build open source projects, contribute to open source, mentor junior devs and I enjoy helping others get started in the world of engineering and building products for themselves and others, a cause I feel extremely passionate about.
 
 ### My Tech Stack ⚡️
 
-🔥 React / Next.js / React native
-🔥 GraphQL
-🔥 Node.js
-🔥 Typescript / Javascript
-🔥 PostgreSQL (you can never go wrong with a SQL database)
-🔥 AWS / Netlify / Netlify Functions
+I've worked alot with React, Javascript, Typescript and Node.js. Now i'm looking into expanding my knowledge into different programming paradigms and programming languages and might dive deep into some backend development. Currently looking at learning a new language, here's a list of the ones i've been eyeing for quite some time:
+
+- Rust
+- Go
+- Scala (The functional side of it)
+- I've also been watching talks on Haskell soooo...

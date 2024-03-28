@@ -2,11 +2,7 @@
 
 ![](https://badgen.net/badge/icon/working-from-home?icon=buymeacoffee&label)
 
-![](public/profile-header.png)
-
-### A Bit About Me 😬
-
-I am a software developer, self taught web developer with three years of experience and a good eye for design. Being self taught in most things and not following a traditional route in tech has given me great empathy for people of all ability level and backgrounds. Outside of work, I build open source projects, contribute to open source, mentor junior devs and I enjoy helping others get started in the world of engineering and building products for themselves and others, a cause I feel extremely passionate about.
+![](public/profile-header.png) 
 
 ### My Tech Stack ⚡️
 
